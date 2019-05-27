@@ -15,11 +15,10 @@ It mimics a bit the functionality of the first version if Axure html formats and
  * jQuery template by Maxime Delorme
  * Pretotype template by Rudy Lattae
 
+### Bug-Fix: 
+Wrong utf-8 encoding/decoding
 
 
-This is my first work on Evolus Pencil (was asked to create wireframes for a client) and being a developer, I could not help but tinker a bit with the export functionality. 
-
-Was a nice experience and will most probably enhance this plugin/template when I've got more time.
+### For installation and usage, please take a look at the wiki: https://github.com/micmor/Evolus-Pencil-HTML-Export-Template/wiki
 
 
-### For installation and usage, please take a look at the wiki: https://github.com/mrmadhav/Evolus-Pencil-HTML-Export-Template/wiki
