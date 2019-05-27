@@ -14,6 +14,7 @@ It mimics a bit the functionality of the first version if Axure html formats and
 ### Based on:
  * jQuery template by Maxime Delorme
  * Pretotype template by Rudy Lattae
+ * Evolus-Pencil-HTML-Export-Template by [Madhav Ramlugun](https://github.com/mrmadhav/Evolus-Pencil-HTML-Export-Template) 
 
 ### Bug-Fix: 
 Wrong utf-8 encoding/decoding
